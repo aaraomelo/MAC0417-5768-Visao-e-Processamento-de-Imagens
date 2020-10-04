@@ -1,0 +1,7 @@
+Variacoes de fundo
+Marrom: fundo representando a superficie de uma cama
+Madeira: fundo representando a superficie de uma mesa de jantar
+Vermelho: fundo representando a superficie de um sofa
+Branco: fundo representando a superficie de uma mesa
+Prateado: fundo representando a superficie de uma pia
+Colorido: fundo representando a superficie de um sofa
